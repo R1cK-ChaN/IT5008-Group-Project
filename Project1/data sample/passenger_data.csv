@@ -1,0 +1,81 @@
+rental_id,passenger_nric,is_driver,seat_position
+10063,E7705289O,False,Rear Left
+10065,E7705289H,True,Middle Seat
+10048,E7705289D,True,Middle Seat
+10098,E3770528B,False,Middle Seat
+10066,E7705289D,False,Middle Seat
+10034,E7705289M,False,Front Passenger
+10051,E7705289N,True,Driver
+10003,E7705289F,False,Front Passenger
+10067,E7705289E,True,Front Passenger
+10018,E7705289H,False,Rear Left
+10030,E7705289I,True,Driver
+10076,E7705289C,True,Front Passenger
+10032,E7705289M,True,Rear Right
+10070,E7705289N,False,Rear Left
+10068,E7705289F,False,Front Passenger
+10012,E7705289P,True,Front Passenger
+10018,E7705289H,True,Rear Left
+10083,E7705289F,True,Rear Right
+10083,E7705289O,True,Front Passenger
+10067,E7705289H,False,Front Passenger
+10098,E7705289F,True,Rear Left
+10002,E7705289G,False,Driver
+10059,E7705289D,True,Middle Seat
+10093,E7705289M,False,Rear Left
+10009,E7705289M,True,Middle Seat
+10073,E7705289P,False,Middle Seat
+10013,E7705289N,False,Middle Seat
+10057,E7705289E,False,Front Passenger
+10079,E3770528B,True,Front Passenger
+10037,E7705289Q,True,Rear Left
+10074,E7705289Q,True,Middle Seat
+10057,E7705289D,True,Rear Right
+10003,E7705289Q,True,Middle Seat
+10087,E7705289M,False,Driver
+10009,E7705289C,False,Middle Seat
+10004,E7705289K,True,Rear Right
+10095,E3770528B,False,Front Passenger
+10020,E7705289R,True,Middle Seat
+10076,E7705289M,False,Front Passenger
+10073,E7705289H,True,Rear Right
+10086,E7705289A,True,Front Passenger
+10058,E7705289I,True,Middle Seat
+10097,E7705289E,False,Rear Left
+10097,E7705289K,False,Rear Right
+10057,E7705289J,False,Front Passenger
+10011,E7705289H,False,Rear Left
+10017,E7705289Q,True,Rear Right
+10056,E7705289E,True,Driver
+10027,E7705289E,False,Middle Seat
+10032,E7705289A,False,Driver
+10041,E7705289M,True,Front Passenger
+10014,E3770528B,False,Front Passenger
+10077,E7705289I,False,Front Passenger
+10023,E7705289N,True,Rear Left
+10077,E7705289K,True,Rear Left
+10069,E7705289J,True,Rear Left
+10016,E7705289I,False,Front Passenger
+10009,E7705289D,False,Driver
+10071,E7705289K,False,Driver
+10004,E7705289F,False,Middle Seat
+10001,E7705289M,False,Driver
+10002,E7705289F,False,Middle Seat
+10010,E7705289G,True,Rear Right
+10024,E7705289J,True,Rear Right
+10082,E7705289J,True,Rear Left
+10099,E7705289C,False,Driver
+10004,E7705289K,False,Rear Left
+10030,E7705289E,False,Middle Seat
+10005,E7705289E,False,Front Passenger
+10019,E3770528B,True,Middle Seat
+10089,E7705289I,False,Rear Right
+10059,E7705289A,False,Driver
+10078,E7705289H,False,Rear Left
+10084,E7705289A,True,Rear Left
+10048,E7705289O,False,Rear Left
+10066,E7705289D,True,Front Passenger
+10073,E7705289C,False,Middle Seat
+10081,E7705289H,False,Rear Right
+10033,E7705289O,False,Rear Right
+10041,E7705289P,True,Middle Seat
