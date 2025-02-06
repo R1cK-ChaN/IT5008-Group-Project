@@ -1,20 +1,95 @@
-id,name,date_of_birth,car_preference_brand,car_preference_model,driving_lisence
-A3770528F,Yolanthe Dimitrijevic,2023/8/3,Mercedes-Benz,Sprinter,TRUE
-E7705289A,Dana Casey,2020/8/3,Subaru,Impreza WRX,FALSE
-E3770528B,Milty Pittendreigh,2024/6/26,Volkswagen,Cabriolet,FALSE
-E7705289C,Lyon Stang-Gjertsen,2024/11/3,Chevrolet,Corvette,TRUE
-E7705289D,Lewiss Mustin,2023/2/5,Lincoln,Navigator,FALSE
-E7705289E,Preston O'Rodane,2020/6/29,Ford,F-Series,FALSE
-E7705289F,Boony Munby,2024/9/13,Ferrari,California,FALSE
-E7705289G,Theodora Joul,2022/1/18,Chevrolet,Equinox,TRUE
-E7705289H,Brooks Seyler,2023/5/12,Eagle,Summit,TRUE
-E7705289I,Kacy Girodon,2021/11/27,BMW,3 Series,TRUE
-E7705289J,Clair Picopp,2021/11/8,BMW,3 Series,TRUE
-E7705289K,Patrice Morcomb,2021/4/7,Chevrolet,Astro,FALSE
-E7705289L,Virgina Riccelli,2023/3/22,Hyundai,Veracruz,FALSE
-E7705289M,Zabrina Slogrove,2023/8/18,Ford,Excursion,FALSE
-E7705289N,Tamqrah Swinden,2020/4/20,Audi,A5,TRUE
-E7705289O,Gavrielle Shapiro,2024/9/4,GMC,Savana 3500,FALSE
-E7705289P,Lamont Jime,2022/1/25,Hummer,H1,FALSE
-E7705289Q,Kelli Dyneley,2022/4/30,Mercedes-Benz,W126,FALSE
-E7705289R,Graham Pashba,2021/5/13,Kia,Rondo,TRUE
+NRIC,name,date_of_birth,car_preference_brand,car_preference_model,has_driving_license
+S1234567A,Tan Ah Kow,1985-05-15,Toyota,Camry,TRUE
+T7654321B,Lee Mei Ling,1992-12-01,Honda,Civic,FALSE
+F9876543C,Wong Kok Seng,1978-08-22,Mercedes-Benz,C-Class,TRUE
+G2468013D,Lim Suan Neo,1963-03-10,BMW,3 Series,TRUE
+S8642097E,Raju s/o Kumar,2000-07-04,Nissan,Sunny,FALSE
+T3579135F,Chen Xiao Li,1989-11-18,Hyundai,Elantra,TRUE
+F1357924G,Angeline Wee,1972-09-27,Volkswagen,Golf,TRUE
+G9753186H,David Goh,1995-04-09,Audi,A4,FALSE
+S4296815I,Noraini bte Ali,1960-01-03,Subaru,Impreza,TRUE
+T6824071J,Michael Tan,1982-06-30,Mazda,3,TRUE
+S2345678B,Lim Ah Hock,1970-02-14,Toyota,Corolla,TRUE
+T8765432C,Lee Mei Hua,1998-10-25,Honda,Jazz,FALSE
+F0987654D,Wong Li Na,1965-07-08,Mercedes-Benz,E-Class,TRUE
+G3579136E,Lim Boon Keng,1991-03-12,BMW,5 Series,TRUE
+S9876543F,Ramesh s/o Gopal,2002-11-02,Nissan,Sentra,FALSE
+T4680247G,Chen Wei,1987-09-16,Hyundai,Sonata,TRUE
+F2468135H,Alice Ng,1974-05-29,Volkswagen,Passat,TRUE
+G0135792I,Peter Lim,1993-12-07,Audi,A6,FALSE
+S5317964J,Siti bte Rahman,1958-08-01,Subaru,Forester,TRUE
+T7953108K,Jessica Wong,1980-04-23,Mazda,6,TRUE
+S3456789C,Ong Kim Huat,1975-03-01,Toyota,Yaris,TRUE
+T9876543D,Lee Siew Fong,1996-11-09,Honda,CR-V,FALSE
+F1234567E,Wong Poh Poh,1962-09-17,Mercedes-Benz,S-Class,TRUE
+G4680248F,Lim Chwee Lian,1988-05-05,BMW,7 Series,TRUE
+S0987654G,Rajesh s/o Nair,2001-12-24,Nissan,X-Trail,FALSE
+T5791359H,Chen Mei Hua,1984-07-11,Hyundai,Tucson,TRUE
+F3579136I,Brenda Tan,1971-04-02,Volkswagen,Tiguan,TRUE
+G1357924J,Andy Lee,1994-11-20,Audi,Q5,FALSE
+S6420861K,Aisyah bte Ismail,1959-06-15,Subaru,XV,TRUE
+T8064297L,Kevin Yeo,1981-02-08,Mazda,CX-5,TRUE
+S4567890D,Goh Meng Seng,1973-01-20,Toyota,Vios,TRUE
+T0987654E,Lim Hui Min,1999-09-29,Honda,HR-V,FALSE
+F2345678F,Tan Ah Lian,1967-06-03,Mercedes-Benz,GLC,TRUE
+G5791360G,Lee Boon Teck,1990-02-17,BMW,X3,TRUE
+S1234567H,Kumar s/o Patel,2003-10-05,Nissan,Qashqai,FALSE
+T6802471I,Wong Sau Fong,1986-08-13,Hyundai,Kona,TRUE
+F4680247J,Susan Chen,1976-04-26,Volkswagen,Arteon,TRUE
+G2468135K,Alan Goh,1997-12-03,Audi,Q7,FALSE
+S7531968L,Rahayu bte Yusof,1961-07-19,Subaru,Outback,TRUE
+T9135792M,Brian Lim,1983-03-06,Mazda,CX-9,TRUE
+S5678901E,Ng Soon Huat,1971-05-12,Toyota,Wish,TRUE
+T1234567F,Tan Li Hoon,1998-01-26,Honda,Stream,FALSE
+F3456789G,Lim Kok Ann,1964-10-09,Mercedes-Benz,GLE,TRUE
+G6802472H,Ong Bee Lian,1989-06-23,BMW,X5,TRUE
+S2345678I,Sharma s/o Singh,2004-02-11,Nissan,Juke,FALSE
+T7913579J,Sim See Leng,1985-11-28,Hyundai,Ioniq,TRUE
+F5791360K,Michelle Lee,1978-08-15,Volkswagen,Touareg,TRUE
+G3579136L,Vincent Tan,1992-04-05,Audi,Q8,FALSE
+S8642097M,Salmah bte Hassan,1957-12-31,Subaru,WRX,TRUE
+T0135792N,Josephine Chia,1979-07-17,Mazda,MX-5,TRUE
+S6789012F,Wee Kian Seng,1974-03-08,Toyota,Sienta,TRUE
+T2345678G,Koh Sok Hwee,2000-11-22,Honda,Odyssey,FALSE
+F4567890H,Lee Chun Meng,1966-09-04,Mercedes-Benz,GLS,TRUE
+G7913579I,Goh Siew Imm,1991-05-19,BMW,X6,TRUE
+S3456789J,Abdul s/o Rahman,2005-01-01,Nissan,Note,FALSE
+T8024713K,Cheong Wai Ling,1987-10-26,Hyundai,Avante,TRUE
+F6802471L,Christina Goh,1977-06-12,Volkswagen,Polo,TRUE
+G4680248M,Lim Wei Jie,1993-02-28,Audi,A3,FALSE
+S9753186N,Suryati bte Anwar,1960-08-05,Subaru,Legacy,TRUE
+T1357924O,Desmond Koh,1982-04-29,Mazda,2,TRUE
+S7890123G,Teo Ah Beng,1972-02-18,Toyota,RAV4,TRUE
+T3456789H,Ang Bee Choo,1999-10-02,Honda,Fit,FALSE
+F5678901I,Tan Kok Liang,1968-07-16,Mercedes-Benz,CLA,TRUE
+G8024713J,Lee Mei Xian,1990-03-15,BMW,X1,TRUE
+S4567890K,Muthu s/o Perumal,2002-11-06,Nissan,Kicks,FALSE
+T9135792L,Loh Wei Ting,1983-09-09,Hyundai,Venue,TRUE
+F7913579M,Vivian Yeo,1975-05-23,Volkswagen,Beetle,TRUE
+G5791360N,Jeffrey Tan,1994-01-06,Audi,A5,FALSE
+S0987654O,Zarina bte Kamal,1956-09-20,Subaru,BRZ,TRUE
+T2468135P,Nicholas Lim,1980-05-13,Mazda,CX-3,TRUE
+S8901234H,Pang Kim Swee,1970-04-06,Toyota,Harrier,TRUE
+T4567890I,Chew Hui Ling,1997-12-21,Honda,City,FALSE
+F6789012J,Ng Boon Kiat,1963-11-03,Mercedes-Benz,A-Class,TRUE
+G9135792K,Teo Siew Lian,1988-07-30,BMW,2 Series,TRUE
+S5678901L,Maniam s/o Pillai,2001-03-18,Nissan,Sylphy,FALSE
+T0247135M,Yeo Pei Shan,1984-10-14,Hyundai,i30,TRUE
+F8024713N,Wendy Goh,1973-06-01,Volkswagen,Golf GTI,TRUE
+G6802472O,Daniel Lee,1996-02-25,Audi,A1,FALSE
+S1234567P,Halimah bte Yacob,1955-10-08,Subaru,Ascent,TRUE
+T3579136Q,Ong Soon Hock,1978-08-29,Mazda,Biante,TRUE
+S9012345I,Seah Li Ting,1976-07-22,Toyota,C-HR,TRUE
+T5678901J,Kwa Kim Choo,1995-03-02,Honda,BR-V,FALSE
+F7890123K,Yeo See Thong,1961-11-16,Mercedes-Benz,B-Class,TRUE
+G0135792L,Lim Siang Huat,1986-09-12,BMW,1 Series,TRUE
+S6789012M,Govind s/o Swami,2000-05-09,Nissan,Leaf,FALSE
+T2468135N,Tan Mei Ling,1982-01-05,Hyundai,Accent,TRUE
+F9135792O,Rachel Tan,1970-09-23,Volkswagen,Scirocco,TRUE
+G7913579P,Kenneth Wong,1993-05-16,Audi,TT,FALSE
+S4567890L,Aminah bte Salim,1954-01-30,Subaru,Tribeca,TRUE
+T6802471M,David Lee,1977-09-06,Mazda,Premacy,TRUE
+S2345678J,Quek Soon Hock,1974-08-01,Toyota,Wish,TRUE
+T8901234K,Goh Chok Tong,1994-04-17,Honda,Stream,FALSE
+F1234567L,Lee Hsien Loong,1962-12-04,Mercedes-Benz,E-Class,TRUE
+G3579136M,Low Thia Khiang,1987-07-13,BMW,5 Series,TRUE
